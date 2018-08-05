@@ -1,0 +1,8 @@
+name: Agiledrop Event Days
+description: How many days till the event starts?
+type: module
+version: 1.0
+package: Custom
+core: 8.x
+dependencies:
+- block

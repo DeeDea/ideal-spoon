@@ -1,0 +1,8 @@
+agiledrop:
+  path: /events
+  defaults:
+    _controller: Drupal\agiledrop\Controller\AgiledropController::content
+  requirements:
+    _permission: 'access content'
+  options:
+    no_cache: 'TRUE'

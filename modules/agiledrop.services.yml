@@ -1,0 +1,3 @@
+services:
+  agiledrop.days_left:
+    class: Drupal\agiledrop\Days\DaysLeft
